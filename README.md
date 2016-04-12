@@ -1,2 +1,0 @@
-# girebi
-Girebi Nedir ?
